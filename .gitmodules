@@ -2,3 +2,6 @@
 	path = poky
 	url = https://git.yoctoproject.org/git/poky
 	branch = scarthgap
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = https://git.yoctoproject.org/meta-raspberrypi
