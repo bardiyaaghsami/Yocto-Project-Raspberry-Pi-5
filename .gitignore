@@ -24,4 +24,5 @@ log.*/
 *.wic.bz2
 *.ext4
 *.tar.bz2
-poky/
+
+#poky/
