@@ -1,0 +1,27 @@
+# Build outputs
+build/
+tmp/
+deploy/
+
+# Yocto cache directories
+downloads/
+sstate-cache/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor files
+*.swp
+*.swo
+
+# Logs
+*.log
+log.*/
+
+# Large binaries
+*.wic
+*.wic.bz2
+*.ext4
+*.tar.bz2
+poky/
