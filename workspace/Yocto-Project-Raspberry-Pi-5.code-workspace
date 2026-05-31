@@ -2,18 +2,19 @@
 	"folders": [
 		{
 			"name": "VSCodeWorkspace",
-			"path": "/media/mozcelikors/ext4/VSCodeWorkspace"
+			"path": "/home/bardiya/Yocto_Builds/Yocto-Project-Raspberry-Pi-5"
 		},
 		{
-			"path": "../workspace"
+			"path": "workspace"
 		},
 		{
-			"path": "../docs"
+			"path": "docs"
 		},
 		{
-			"path": "../poky"
-		},
+			"path": "poky"
+		}
 	],
+	
 	"settings": {
 		"files.exclude": {
 			"build/tmp": true,
